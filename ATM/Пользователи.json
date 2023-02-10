@@ -1,0 +1,32 @@
+[
+ {
+  "password": "5555",
+  "card": "****0418",
+  "balance": 500
+ },
+ {
+  "password": "2222",
+  "card": "****3775",
+  "balance": 50
+ },
+ {
+  "password": "6980",
+  "card": "****8598",
+  "balance": 450
+ },
+ {
+  "password": "8555",
+  "card": "****3337",
+  "balance": 0
+ },
+ {
+  "password": "2226",
+  "card": "****8602",
+  "balance": 0
+ },
+ {
+  "password": "4444",
+  "card": "****1965",
+  "balance": 0
+ }
+]
